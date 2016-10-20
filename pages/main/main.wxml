@@ -1,0 +1,18 @@
+<view>
+    <view class="page-top">
+        <text class="coinnumber">10.16342323</text>
+        <text class="coinusetitle">可用余额(YBC)</text>
+    </view>
+    <view class="page-button">
+        <view class="in-button">
+            <image src="../../images/icon_extract.png" class="icon-img"></image>
+            <text class="inout_text">充币</text>
+        </view>
+        <view class="out-button">
+            <image src="../../images/icon_recharge.png" class="icon-img"></image>
+             <text class="inout_text">提币</text>
+        </view>
+    </view>
+    <view class="page-bottom">
+    </view>
+</view>
