@@ -1,45 +1,24 @@
-.page-top {
-  background-color:  #1bb3a8;
-  color: #fff;
-  height: 300rpx; 
-  text-align:center;
+.container{
+display: block;
 }
-.coinnumber{
-  display: block;
-  margin:auto;
-  padding-top: 100rpx;
-  font-size: 50rpx;
+.serach{
+    margin-top: 18rpx;
+    margin-left: 25rpx;
+    margin-right: 25rpx;
+    padding-left: 25rpx;
+    background-color: #F3F3F3;
+    border-radius: 12rpx;
+
 }
-.coinusetitle{
-  display: block;
-  padding-top: 30rpx;
-  margin:auto;
-  font-size: 30rpx;
-}
-.page-button {
-  background-color:  #fff;
-  width: 100%;
-  height: 100rpx;
-  display: flex;
-  border-bottom: solid #e3e3e3 1rpx;
-}
-.in-button{
-  width: 50%;
-  border-right: solid #e3e3e3 1rpx;
-}
-.out-button{
-  width: 50%;
-}
-.icon-img{
-  height: 50rpx;
-  width: 50rpx;
-  margin-left: 100rpx;
-  margin-top: 20rpx;
-}
-.inout_text{
-  font-size: 35rpx;
-  margin-left: 20rpx;
-  color: #000;
+.serach_view_show{
+    display: block;
+    color: #808080;
+    padding-left: 285rpx;
+    padding-top: 15rpx;
+    padding-bottom: 15rpx;
+    font-size: 18rpx;
+    background-color: #F3F3F3;
+    border-radius: 12rpx;
 }
 .message_list{
   background-color: #f2f2f2;
